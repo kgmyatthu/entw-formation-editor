@@ -1,0 +1,31 @@
+{
+  "name": "ntw-formation-editor",
+  "version": "1.0.0",
+  "description": "Visual editor for Napoleon Total War groupformations.bin — import/export XML and taw's Ruby format, drag-and-drop 2D canvas, full block property editing",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "@vitejs/plugin-react": "^4.2.0",
+    "typescript": "^5.3.0",
+    "vite": "^5.0.0"
+  },
+  "keywords": [
+    "napoleon-total-war",
+    "ntw",
+    "modding",
+    "formation-editor",
+    "groupformations"
+  ],
+  "license": "MIT"
+}
